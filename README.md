@@ -1,3 +1,7 @@
-Ogólnie to prosty skrypcik na komendę /s1,s2,s3,s4 jebac kurwy co sprzedają takie gówno XD
+A very simple script to change seats in the car, to use it type /s 1-5
 
-Zapraszam na najlepszy serwerek ever  https://discord.gg/dreamtownrp
+Installation:
+1. Download the file
+2. Extract it in the server files
+3. Run the script in the server.cfg file
+4. Done!
